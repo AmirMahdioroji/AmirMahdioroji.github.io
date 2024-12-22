@@ -1,0 +1,25 @@
+:root{
+  --theme-color: #000000;
+  --theme-hover-color: #ffe9ed;
+  --text-color: #81858b;
+  --light-gray-color: #f0f0f1;
+  --border-color: #e0e0e2;
+  --high-text-color: #151517;
+  --high-text-color-500: #232323;
+  --off-card-backgrand-color: rgba(209, 0, 0, 0.4);
+  --white-color: #ffffff;
+  --white-color-dark: #ededed;
+  --theme-dark-color: #b20427;
+  --blue-color: #007aff;
+  --blue-dark-color: #073d79;
+  --yellow-color: #b2b509;
+  --yellow-dark-color: #747606;
+  --shadow-small: 0 1px 3px 0 rgba(0, 0, 0, 0.1),
+  0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-medium: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+  0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-large: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+  0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+@import "init";

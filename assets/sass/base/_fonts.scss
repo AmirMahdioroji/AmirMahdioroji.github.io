@@ -1,0 +1,10 @@
+@font-face {
+  font-family: $font-name;
+  src: url("#{$font-path}/eot/iranyekanwebregular(fanum).eot"),
+  url("#{$font-path}/ttf/iranyekanwebregular(fanum).ttf"),
+  url("#{$font-path}/woff/iranyekanwebregular(fanum).woff"),
+  url("#{$font-path}/woff2/iranyekanwebregular(fanum).woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+

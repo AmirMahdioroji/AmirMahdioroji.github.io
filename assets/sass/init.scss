@@ -1,0 +1,23 @@
+//utilities
+@import "utils/variables";
+@import "utils/utilities";
+
+//base
+@import "base/fonts";
+@import "base/reset";
+
+//components
+@import "components/sliders";
+@import "components/main-Category";
+
+
+//layouts
+@import "layouts/header";
+
+@import "responsive/responsive";
+
+
+
+
+//test
+@import "test/test-blog";

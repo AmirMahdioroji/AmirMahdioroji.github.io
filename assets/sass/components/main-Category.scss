@@ -1,0 +1,36 @@
+.container-xxl.main-Category{
+  border-radius: 8px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  .row{
+    .weeper-card{
+      border-left: 1px solid red;
+      border-left: 1px solid var(--high-text-color);
+      &:last-child{
+        border: none;
+      }
+      .title-card{
+        color: var(--high-text-color);
+      }
+      .row{
+        .card-item{
+          img{
+            border-radius: 10px;
+            width: 100%;
+            height: 200px;
+          }
+        }
+      }
+      .link-all-card{
+        color: var(--theme-color);
+        text-decoration: none;
+        &:hover{
+          color: var(--high-text-color-500);
+        }
+        svg{
+          font-size: 14px;
+        }
+
+      }
+    }
+  }
+}

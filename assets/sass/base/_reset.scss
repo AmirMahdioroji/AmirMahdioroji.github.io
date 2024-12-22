@@ -1,0 +1,24 @@
+*{
+  font-family: "IRANYekan";
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+.form-control:focus{
+  box-shadow: none;
+  border-color: var(--theme-color);
+}
+
+.btn:focus{
+  box-shadow: none;
+}
